@@ -18,7 +18,7 @@ These queries were written to practice:
 
 ##  Tools Used
 - **SQL** (SQLite)
-- **DB Browser for SQLite** or **MySQL Workbench**
+- **DB Browser for SQLite** 
 - **DataBase File** as data source
 
 ---
@@ -26,7 +26,6 @@ These queries were written to practice:
 ##  Files in This Repository
 SQL Data Analysis Tasks_AdventureWorks.db.ipynb : SQL queries
 AdventureWorksTables : Tables and relationships betwwen thier
-AdventureWorks.db : dataset 
 README.md file
 ---
 
